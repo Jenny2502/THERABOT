@@ -40,6 +40,7 @@ A healthcare-focused chatbot that answers health-related queries across three ca
 
 ## Project Structure
 
+```
 THERABOT/
 ├── server.js          # Express backend and API integration
 ├── chat-handler.js    # Chat logic and message handling
@@ -49,6 +50,7 @@ THERABOT/
 ├── style.css          # Main styling
 ├── faq.html           # FAQ page
 └── package.json       # Dependencies
+```
 ---
 
 ## Author
